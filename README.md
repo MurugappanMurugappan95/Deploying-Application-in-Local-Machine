@@ -3,7 +3,7 @@ Another way of deploying application in local server/ machine to understand the 
 
 # To understand the web server, we can use our laptop to run as local machine/ server and displaying the list of files and folders in any particular location in the local server and that can be accessed using localhost in the default port of 8000
 
-# copy the html of any application and using that, create a file as index.html and saved in the same location where we are trying to launch the application in the local machine/ server
+copy the html of any application and using that, create a file as index.html and saved in the same location where we are trying to launch the application in the local machine/ server
 
 ![image](https://user-images.githubusercontent.com/77397177/230235675-4b23259c-e6d7-46cd-a66b-386f72cf1b6a.png)
 
