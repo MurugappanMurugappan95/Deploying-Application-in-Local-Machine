@@ -10,7 +10,9 @@ copy the html of any application and using that, create a file as index.html and
 Command to run laptop as local machine/ server 
 # python -m http.server
 
-![image](https://user-images.githubusercontent.com/77397177/230236128-a4ce8a71-224a-498e-89ca-b749d282adcf.png)
+![image](https://user-images.githubusercontent.com/77397177/230236414-0c7a195f-4858-43bd-84bf-f44c840dfa8b.png)
 
 This local server can be accessed from the local host in port 8000 as below in the browser
 # localhost:8000/
+
+![image](https://user-images.githubusercontent.com/77397177/230236128-a4ce8a71-224a-498e-89ca-b749d282adcf.png)
